@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/Levels/Gym_Pau.umap",
+				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/Levels/ALS_Gym_Pau.uasset",
+				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/Obstacles/Bouncy_Sphere.uasset",
+				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap",
+				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/Obstacles/Fist_wall.uasset",
+				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/AdvancedLocomotionV4/Environment/SimpleMovingObject.uasset",
+				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/AdvancedLocomotionV4/Levels/Untitled.umap",
 				"C:/Users/PauAmigoArjona/Desktop/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/Obstacles/Ball.uasset",
 				"C:/Users/PauAmigoArjona/Desktop/AA2_level_design/AdvancedLocomotionSystemV/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset",
 				"C:/Users/PauAmigoArjona/Desktop/AA2_level_design/AdvancedLocomotionSystemV/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap",
@@ -19,11 +26,7 @@
 				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/Gym_Pau.umap",
 				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/ALS_GridLevel_2.umap",
 				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/ALS_GridLevel_BuiltData_2.uasset",
-				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/ALS_Gym_Pau.uasset",
-				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/Levels/Gym_Pau.umap",
-				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/Levels/ALS_Gym_Pau.uasset",
-				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/Obstacles/Bouncy_Sphere.uasset",
-				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap"
+				"C:/Users/Pau/Documents/GitKraken/AA2_level_design/AdvancedLocomotionSystemV/Content/Level_Design/ALS_Gym_Pau.uasset"
 			]
 		}
 	]
