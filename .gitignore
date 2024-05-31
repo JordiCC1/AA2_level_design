@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+AdvancedLocomotionSystemV/Saved/Logs/AdvancedLocomotionSystemV.log
+
+AdvancedLocomotionSystemV/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
